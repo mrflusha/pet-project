@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css?family=Spicy+Rice');
+@import url('https://fonts.googleapis.com/css?family=Charmonman|Indie+Flower');
+
+
+*{
+  padding: 0;
+  margin: 0;
+  background-color: #d55ed4;
+  outline: none;
+
+}
+
+body, html {
+  width: 100%;
+  height: 100%;
+}
+
+#logo a:hover{
+  background-color: #ededed;
+  color: #2e2e30;
+}
+.framescreen #obj a:hover{
+  border: 5px doted red;
+}
+
+
+.menu li a:hover{
+  color: #9eea14;
+  background-color: #2e2e30;
+}
+
+
+}
+a:hover{
+  border: 5px dotted red;
+}
+
+
+
+
+#logo{
+  background: transparent;
+
+  position: fixed;
+  float: left;
+  display: block;
+  line-height: 3.75vmax;
+  z-index: 10;
+  cursor: pointer;
+
+
+
+
+
+}
+.menu{
+
+  float: none;
+  display: inline-flex;
+  position: relative;
+
+
+
+
+
+
+
+
+
+  margin-left: 27vw;
+  margin-top: 0.1vmax;
+  border-radius: 0.33vw;
+}
+
+#logo a{
+  text-decoration: none;
+  color: #f53737;
+  background-color: black;
+
+  width: 11vmax;
+  height: 7vmax;
+  border: 1px solid white;
+
+  text-align: center;
+  float: none;
+  font-family: 'Spicy Rice', cursive;
+  font-size: 1.75em;
+
+}
+
+.menu ul>li{
+  float: none;
+
+  position: relative;
+  margin-left:  1vmax;
+  line-height: 3vmax;
+  text-align: center;
+
+  background-color: black;
+
+  display: inline-flex;
+
+}
+
+.menu a{
+  display: inline-flex;
+  border: 1px groove white;
+  border-radius: 1vw;
+  background-color: grey;
+  color: #fafafa;
+  margin: 0.3vw;
+
+
+  font-size: 1vmax;
+  text-align: center;
+
+  font-family: 'Indie Flower', 'Charmonman', serif;
+  text-decoration: none;
+  min-width: 3vw;
+  min-height: 1.35vh;
+
+
+
+
+}
+
+
+.menu ul{
+  margin-right: 1vmax;
+  margin-left: 1vmax;
+  border: 1px solid white;
+  width: 10,5wmax;
+  border-radius: 0.5vw;
+
+
+
+
+
+  text-shadow: 1px 1px 2px black, 0 0 1em red;
+  font-size: 1,35vmax;
+
+
+  list-style: none;
+
+
+  z-index: 11;
+
+
+
+  background-color: black;
+}
+
+.framescreen{
+  position: relative;
+  text-align: center;
+  font-size: 1vmax;
+  font-family: 'Indie Flower', 'Charmonman', serif;
+
+
+
+
+
+
+  display: block;
+  z-index: 9;
+}
+.framescreen h1{
+  padding-right: 18vmax;
+  padding-left: 18vmax;
+
+  color: #0d0c0c;
+}
+.framescreen h3{
+  color: #0d0c0c;
+
+}
+
+
+.framescreen a{
+
+  font-size:2vmax;
+
+
+
+  font-family: 'Indie Flower', 'Charmonman', serif;
+  background-color: black;
+  color: #9eea14;
+  text-decoration: none;
+  border: 1px dotted #fff;
+  border-radius: 0.1vmax;
+
+
+}
+
+.framescreen #red{
+  color:red;
+  text-decoration: underline;
+}
+
+.framescreen p{
+  color: #bc2f2f;
+
+
+}

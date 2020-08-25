@@ -1,0 +1,67 @@
+.obj{
+  display: inline-flex;
+  position:relative;
+  padding: 3vmax;
+  margin: 3vw;
+
+
+}
+
+p{
+  color:#181c0d;
+  font-size: 1.25vmax;
+
+}
+
+
+
+
+
+#pere0 a{
+  display: flex;
+  overflow: auto;
+  cursor: pointer;
+  border: 5px solid white;
+  border-radius: 0.6vw;
+  width: 15vmax;
+  height: 15vmax;
+  background-size: cover;
+  background-image: url('https://ae01.alicdn.com/kf/HTB1fRx7Xc_vK1RkSmRyxh4wupXaQ.jpeg');
+}
+#pere1 a{
+  display: flex;
+  overflow: auto;
+  cursor: pointer;
+  border: 5px solid white;
+  border-radius: 0.6vw;
+  width: 15vmax;
+  height: 15vmax;
+  background-size: cover;
+  background-image: url('https://ae01.alicdn.com/kf/HTB11iymXifrK1RjSspbq6A4pFXae.jpg?width=786&height=634&hash=1420');
+}
+#pere2 a{
+  display: flex;
+  overflow: auto;
+  cursor: pointer;
+  border: 5px solid white;
+  border-radius: 0.6vw;
+  width: 15vmax;
+  height: 15vmax;
+  background-size: cover;
+  background-image: url('https://ae01.alicdn.com/kf/HTB171Xnp2ImBKNjSZFlq6A43FXaD.jpg');
+}
+#pere3 a{
+  display: flex;
+  overflow: auto;
+  cursor: pointer;
+  border: 5px solid white;
+  border-radius: 0.6vw;
+  width: 15vmax;
+  height: 15vmax;
+  background-size: cover;
+  background-image: url('https://ae01.alicdn.com/kf/HTB1C8R.OVXXXXXqXFXXq6xXFXXXV/229023392/HTB1C8R.OVXXXXXqXFXXq6xXFXXXV.jpg?size=118794&height=800&width=800&hash=85e534076d45363bfda937ce59e66acf');
+}
+
+.obj div{
+  margin-right: 0.3vw;
+}
